@@ -1,0 +1,29 @@
+[
+  { "period": "2025-05", "planned_hours": 160, "runtime_hours": 144, "downtime_hours": 16,
+    "production_units": 15500, "good_units": 15035, "failures": 6,
+    "sales_internal": 14500, "sales_market_total": 98000 },
+
+  { "period": "2025-06", "planned_hours": 168, "runtime_hours": 150, "downtime_hours": 18,
+    "production_units": 15800, "good_units": 15310, "failures": 7,
+    "sales_internal": 15000, "sales_market_total": 100500 },
+
+  { "period": "2025-07", "planned_hours": 176, "runtime_hours": 160, "downtime_hours": 16,
+    "production_units": 16250, "good_units": 15760, "failures": 5,
+    "sales_internal": 15400, "sales_market_total": 101800 },
+
+  { "period": "2025-08", "planned_hours": 168, "runtime_hours": 150, "downtime_hours": 18,
+    "production_units": 15900, "good_units": 15400, "failures": 8,
+    "sales_internal": 15050, "sales_market_total": 102300 },
+
+  { "period": "2025-09", "planned_hours": 160, "runtime_hours": 140, "downtime_hours": 20,
+    "production_units": 15100, "good_units": 14650, "failures": 9,
+    "sales_internal": 14300, "sales_market_total": 101000 },
+
+  { "period": "2025-10", "planned_hours": 184, "runtime_hours": 168, "downtime_hours": 16,
+    "production_units": 17050, "good_units": 16580, "failures": 6,
+    "sales_internal": 16200, "sales_market_total": 104500 },
+
+  { "period": "2025-11", "planned_hours": 176, "runtime_hours": 160, "downtime_hours": 16,
+    "production_units": 17100, "good_units": 16700, "failures": 5,
+    "sales_internal": 16450, "sales_market_total": 105800 }
+]
