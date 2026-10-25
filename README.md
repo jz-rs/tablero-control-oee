@@ -10,6 +10,8 @@ Tablero web que mide el desempeño de una línea automatizada y lo cruza con el 
 
 **Demo:** https://jz-rs.github.io/tablero-control-oee/
 
+![Tablero: KPI del último período con semáforos y evolución del OEE y la utilización](img/tablero1.png)
+
 ## Problema de negocio
 
 Una planta automatizada tiene las métricas técnicas (eficiencia, fallas) separadas de las estratégicas (participación de mercado), y eso dificulta decidir si la automatización mejora la competitividad. El tablero las junta en una sola vista con tres objetivos:
@@ -50,6 +52,8 @@ En los siete períodos (mayo a noviembre de 2025):
 - La tasa de fallos estuvo entre 0,03 % y 0,06 %. Septiembre superó el umbral verde de 0,05 %.
 - El market share osciló entre 14,2 % y 15,5 %.
 - Las ventas propias crecieron más que el mercado en 4 de las 6 comparaciones (junio, julio, octubre y noviembre). El pico fue octubre, con +9,8 puntos porcentuales.
+
+![Market share frente al mercado y crecimiento relativo por período](img/tablero2.png)
 
 ### Cómo leer el crecimiento relativo
 
@@ -92,6 +96,7 @@ HTML5, CSS3, JavaScript sin frameworks, Bootstrap 5.3, Chart.js 4.4, Google Font
 ├── script.js       Cálculo de indicadores, semáforos y gráficos
 ├── style.css       Estilos
 ├── data.json       Datos de ejemplo
+├── img/            Capturas del README
 └── README.md
 ```
 
